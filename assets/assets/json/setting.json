@@ -1,0 +1,19 @@
+{
+  "empresa": {
+    "nombre": "El Ombú JC",
+    "pathLogo": "assets/images/logo-ombujc-7.png",
+    "appTitulo": "El Ombú JC",
+    "appTituloShort": "El Ombú JC",
+    "agrupadoresAgencias": [{ "codigo": "OMB000" }, { "codigo": "OMB010" }, { "codigo": "OMB020" }, { "codigo": "OMB030" }, { "codigo": "OMB040" }, { "codigo": "OMB050" }, { "codigo": "OMB060" }, { "codigo": "OMB070" }, { "codigo": "OMB080" }, { "codigo": "OMB090" }, { "codigo": "OMB100" }],
+    "agrupadoresAgenciasEx": [],
+	"isRegistro": false,
+	"isLogoHeader": true,
+	"isBackgroundTransparentHeader": false,
+	"uriAuthority": "wssvp2.duckdns.org",
+	"baseUrl": "https://wssvp2.duckdns.org/api",
+	"colorPrimarySwatch": "#05925e",
+	"contacto": "https://svpstreaming.duckdns.org/_app/_omb/_info/Contacto.pdf",
+	"datosBancarios": "https://svpstreaming.duckdns.org/_app/_omb/_info/DatosBancarios.pdf",
+	"solicitudes": "https://svpstreaming.duckdns.org/_app/_omb/_info/Solicitudes.pdf"
+  }
+}
